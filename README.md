@@ -5,3 +5,6 @@ These changes will be made to just the README file on your readme-edits branch, 
 This is feature 1
 
 this is feature 2
+
+this is feature 3
+
