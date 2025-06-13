@@ -6,4 +6,4 @@ This is feature 1
 
 this is feature 2
 
-this is feature 3 - Updated by sang
+this is feature 3
